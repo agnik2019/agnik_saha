@@ -38,7 +38,7 @@ function App() {
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Menu menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
       <Switch location={location} key={location.pathname} >
-          <Route path="/" exact >
+          <Route path="/agnik_saha" exact >
               <AboutUs/>
           </Route>
           <Route path="/about" exact >
