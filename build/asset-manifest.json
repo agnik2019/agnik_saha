@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agnik_saha/static/css/main.3cb9f9db.chunk.css",
-    "main.js": "/agnik_saha/static/js/main.b3c8fe3c.chunk.js",
-    "main.js.map": "/agnik_saha/static/js/main.b3c8fe3c.chunk.js.map",
+    "main.js": "/agnik_saha/static/js/main.7956d56a.chunk.js",
+    "main.js.map": "/agnik_saha/static/js/main.7956d56a.chunk.js.map",
     "runtime-main.js": "/agnik_saha/static/js/runtime-main.980e7e46.js",
     "runtime-main.js.map": "/agnik_saha/static/js/runtime-main.980e7e46.js.map",
     "static/css/2.80f479d8.chunk.css": "/agnik_saha/static/css/2.80f479d8.chunk.css",
     "static/js/2.6e697706.chunk.js": "/agnik_saha/static/js/2.6e697706.chunk.js",
     "static/js/2.6e697706.chunk.js.map": "/agnik_saha/static/js/2.6e697706.chunk.js.map",
     "index.html": "/agnik_saha/index.html",
-    "precache-manifest.4edb09aab656bb60b82d7dd23ad0ab07.js": "/agnik_saha/precache-manifest.4edb09aab656bb60b82d7dd23ad0ab07.js",
+    "precache-manifest.0f694726b8ec5fb9c9a55722d9a04e8c.js": "/agnik_saha/precache-manifest.0f694726b8ec5fb9c9a55722d9a04e8c.js",
     "service-worker.js": "/agnik_saha/service-worker.js",
     "static/css/2.80f479d8.chunk.css.map": "/agnik_saha/static/css/2.80f479d8.chunk.css.map",
     "static/css/main.3cb9f9db.chunk.css.map": "/agnik_saha/static/css/main.3cb9f9db.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.80f479d8.chunk.css",
     "static/js/2.6e697706.chunk.js",
     "static/css/main.3cb9f9db.chunk.css",
-    "static/js/main.b3c8fe3c.chunk.js"
+    "static/js/main.7956d56a.chunk.js"
   ]
 }
